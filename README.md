@@ -1,2 +1,2 @@
 # Pathway
-Pathway is a future unblocker so you can have the freedom of searching without being censored
+Pathway is a future unblocker/filter bypasser so you can have the freedom of searching without being censored
